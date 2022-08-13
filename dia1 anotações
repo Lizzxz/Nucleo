@@ -1,0 +1,24 @@
+Bibliotecas, oq são?
+	#include <studio.h> = infos que eu preciso 
+
+
+#include <studio.h>
+#define valor1 1 
+
+char soma (char a, char b);
+char resultado_soma;
+char x =2;
+char x1 = 3;
+
+void main(void)
+
+
+como declarar uma variavél?
+	dar um nome a ela
+ 		ex: char, diz o tamanho da variavel
+		int,
+1- preciso declacar
+pode ser global ou local
+ precisa definir o tamanho dela 
+	 
+
